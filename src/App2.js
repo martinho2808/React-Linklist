@@ -38,9 +38,9 @@ export default function App2() {
   };
 
   const onDeleteLink = () => {
-      console.log('hi')
-      console.log(links)
-      console.log(parsedLinks)
+      // console.log('hi')
+      // console.log(links)
+      // console.log(parsedLinks)
       const storedLinks = localStorage.removeItem("links");
       setLinks([])
       
