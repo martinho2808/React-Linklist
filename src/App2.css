@@ -1,0 +1,27 @@
+.container-fluid .row{
+    display:flex;
+    flex-direction: row;
+
+
+   
+    
+}
+.tagbox{
+    border: solid 1px black;
+    margin-left: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.Linklist{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.row .logo2{
+    width: 40vw;
+    height: 40vw;
+}
+.sea span{
+    font-size:x-large
+}
